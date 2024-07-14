@@ -53,10 +53,6 @@ All protected endpoints require a valid JWT Bearer token. Include the token in t
 
 We welcome contributions to enhance the functionality and features of BlogAPIs. Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
-
 ## Contact
 
 For any questions, issues, or contributions, please contact [Zain Ahmed Refaat](mailto:zeinahmed04@gmail.com).
